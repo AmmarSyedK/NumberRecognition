@@ -23,10 +23,6 @@ This repository contains a MATLAB implementation of number recognition using ima
 2.  The program will display the original image and the processed image with the detected number highlighted.
 3.  The detected number and the time taken for detection will also be displayed in the command window.
 
-# Conclusion
-
-In conclusion, the "Number Recognition using MATLAB" tool is a reliable and efficient tool for detecting and recognizing numbers in images. Its user-friendly interface and fast processing times make it a valuable asset in various fields where number recognition is required. We hope that this tool will be useful to you and welcome any feedback or suggestions for improvement.
-
 # Credits
 
 -   The main script `detection.m` and supporting functions were developed by me and [EILCO](https://eilco.univ-littoral.fr/) students.
